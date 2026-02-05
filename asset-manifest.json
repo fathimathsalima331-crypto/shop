@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/shop/static/css/main.cf52f293.css",
+    "main.js": "/shop/static/js/main.2b16fa5f.js",
+    "static/media/image.jpg": "/shop/static/media/image.dbc5780110e40be8c627.jpg",
+    "static/media/image1.jpg": "/shop/static/media/image1.3f919b4d906eff205091.jpg",
+    "static/media/gown.webp": "/shop/static/media/gown.05bcd62ebc0644239c61.webp",
+    "static/media/image 2.webp": "/shop/static/media/image 2.1ddd40b4cdc3c62c2a12.webp",
+    "static/media/blck.webp": "/shop/static/media/blck.34c1e0f37dca7deed830.webp",
+    "static/media/dress1.webp": "/shop/static/media/dress1.1d2bd69e7f1453261f31.webp",
+    "static/media/coat.webp": "/shop/static/media/coat.7bbc975cc14406fb6c55.webp",
+    "static/media/modern.webp": "/shop/static/media/modern.cdd3e0478b595a4d142b.webp",
+    "static/media/bg.jpg": "/shop/static/media/bg.28eac7223df80225682d.jpg",
+    "static/media/casualset.jpg": "/shop/static/media/casualset.faacc60d9c2e82cb8fcb.jpg",
+    "static/media/jackids.avif": "/shop/static/media/jackids.f53e3f9f51e566bd6376.avif",
+    "static/media/gooooo.webp": "/shop/static/media/gooooo.4da52511459e947b6726.webp",
+    "static/media/jackmen.webp": "/shop/static/media/jackmen.79504e6e690e8269b25c.webp",
+    "index.html": "/shop/index.html",
+    "main.cf52f293.css.map": "/shop/static/css/main.cf52f293.css.map",
+    "main.2b16fa5f.js.map": "/shop/static/js/main.2b16fa5f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf52f293.css",
+    "static/js/main.2b16fa5f.js"
+  ]
+}
