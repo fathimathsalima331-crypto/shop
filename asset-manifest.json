@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/shop/static/css/main.cf52f293.css",
-    "main.js": "/shop/static/js/main.2b16fa5f.js",
+    "main.js": "/shop/static/js/main.f54649f0.js",
     "static/media/image.jpg": "/shop/static/media/image.dbc5780110e40be8c627.jpg",
     "static/media/image1.jpg": "/shop/static/media/image1.3f919b4d906eff205091.jpg",
     "static/media/gown.webp": "/shop/static/media/gown.05bcd62ebc0644239c61.webp",
@@ -17,10 +17,10 @@
     "static/media/jackmen.webp": "/shop/static/media/jackmen.79504e6e690e8269b25c.webp",
     "index.html": "/shop/index.html",
     "main.cf52f293.css.map": "/shop/static/css/main.cf52f293.css.map",
-    "main.2b16fa5f.js.map": "/shop/static/js/main.2b16fa5f.js.map"
+    "main.f54649f0.js.map": "/shop/static/js/main.f54649f0.js.map"
   },
   "entrypoints": [
     "static/css/main.cf52f293.css",
-    "static/js/main.2b16fa5f.js"
+    "static/js/main.f54649f0.js"
   ]
 }
